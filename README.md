@@ -4,4 +4,4 @@
 # BIO
 CEO [UBD Team](https://discord.gg/VgkSS6aNae), [NCK](https://nck.gg)
   
-![](https://komarev.com/ghpvc/?username=nckgg&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=nckgg&color=blueviolet&label=Views)
