@@ -1,7 +1,10 @@
-![](https://hit.yhype.me/github/profile?user_id=44925968)
-<img align='right' src='https://media.discordapp.net/attachments/1041330297704304760/1045318584487903242/b261c101ef4920c448cba429295f3c28.png' width='20%'>  
-
-# BIO
-CEO [UBD Team](https://discord.gg/VgkSS6aNae), [NCK](https://nck.gg)
-  
 ![](https://komarev.com/ghpvc/?username=nckgg&color=blueviolet&label=Views)
+About me
+============
+
+I am currently a collaborator at Umbrella and Scanit, 
+I develop software dedicated to the protection of applications and projects.
+
+In December 2024 you will be able to appreciate the projects that I have worked on since it is the launch date.
+
+Thank you for visiting my profile.
