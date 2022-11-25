@@ -1,5 +1,4 @@
 About me
-============
 
 I am currently a collaborator at Umbrella and Scanit, 
 I develop software dedicated to the protection of applications and projects.
