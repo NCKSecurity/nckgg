@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=nckgg&color=blueviolet&label=Views)
-<br />
 About me
 ============
 
